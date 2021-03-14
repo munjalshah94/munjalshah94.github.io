@@ -154,7 +154,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   background: transparent url(transparent.png) repeat;}
 
 #site_content
-{ width: 854px;
+{ width:1000px;
   overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 20px 24px 20px 20px;
@@ -162,7 +162,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 .sidebar
 { float: left;
-  width: 320px;
+  width: 500px;
   padding: 0 15px 20px 15px;}
 
 .sidebar ul
@@ -186,7 +186,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 #content
 { text-align: left;
   float: right;
-  width: 595px;
+  width: 700px;
   padding: 0;}
 
 #content ul
