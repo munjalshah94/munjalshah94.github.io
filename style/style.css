@@ -161,8 +161,8 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   background: transparent url(transparent_light.png) repeat;} 
 
 .sidebar
-{ float: left;
-  width: 450px;
+{ float: right;
+  width: 400px;
   padding: 0 15px 20px 15px;}
 
 .sidebar ul
@@ -185,8 +185,8 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 #content
 { text-align: left;
-  float: right;
-  width: 450px;
+  float: left;
+  width: 600px;
   padding: 0;}
 
 #content ul
