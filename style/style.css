@@ -199,7 +199,8 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   line-height: 1.5em;}
 
 #content2
-{ text-align: left;
+{ float: right;
+  text-align: left;
   width: 450px;
   padding: 4px 4px 4px 4px;}
 
