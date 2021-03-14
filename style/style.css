@@ -6,7 +6,7 @@ html
   padding: 0;}
 
 body
-{ font: normal .80em 'trebuchet ms', arial, sans-serif;
+{ font: normal .85em 'trebuchet ms', arial, sans-serif;
   background: #F0EFE2 url(background.png) repeat;
   color: #777;}
 
@@ -162,7 +162,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 .sidebar
 { float: left;
-  width: 190px;
+  width: 320px;
   padding: 0 15px 20px 15px;}
 
 .sidebar ul
